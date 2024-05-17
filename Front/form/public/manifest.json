@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://www.google.com/imgres?q=form%20builder%20favicon&imgurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fmobile-form-builder-drawing-01.svg&imgrefurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fen%2Fmobile-form-builder-to-collect-field-data%2F&docid=zRG7gtUJqPkKYM&tbnid=YyUbco2GC6__fM&vet=12ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.google.com/imgres?q=form%20builder%20favicon&imgurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fmobile-form-builder-drawing-01.svg&imgrefurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fen%2Fmobile-form-builder-to-collect-field-data%2F&docid=zRG7gtUJqPkKYM&tbnid=YyUbco2GC6__fM&vet=12ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.google.com/imgres?q=form%20builder%20favicon&imgurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fmobile-form-builder-drawing-01.svg&imgrefurl=https%3A%2F%2Fwww.kizeo-forms.com%2Fen%2Fmobile-form-builder-to-collect-field-data%2F&docid=zRG7gtUJqPkKYM&tbnid=YyUbco2GC6__fM&vet=12ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiH1tSVl-mFAxWZnGMGHVDNA60QM3oECHoQAA",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
