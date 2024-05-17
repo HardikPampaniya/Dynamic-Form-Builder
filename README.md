@@ -13,7 +13,7 @@ MySQL database set up
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/dynamic-form-builder.git
+git clone https://github.com/HardikPampaniya/Dynamic-Form-Builder.git
 cd dynamic-form-builder
 
 2.Install backend dependencies:
