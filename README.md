@@ -1,4 +1,4 @@
-**#Dynamic Form Builder Website**
+****#Dynamic Form Builder Website****
 
 Welcome to the Dynamic Form Builder Website! This project is built using React for the frontend, Node.js for the backend, and MySQL for the database. It allows users to create, customize, and manage forms dynamically.
 
@@ -12,7 +12,7 @@ Follow these steps to set up the project locally:
 
 Node.js and npm installed on your machine
 
-MySQL database set up
+****MySQL database set up****
 
 
 **Backend Setup**
@@ -86,7 +86,7 @@ npm start
 
 **Technologies Used**
 
-Frontend: React, Redux, React Router, Axios
+Frontend: React, React Router, Axios
 
 Backend: Node.js, Express, JWT for authentication
 
