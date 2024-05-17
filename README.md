@@ -4,13 +4,16 @@ Welcome to the Dynamic Form Builder Website! This project is built using React f
 
 
 **Installation**
+
 Follow these steps to set up the project locally:
 
 
 **Prerequisites**
+
 Node.js and npm installed on your machine
 
 MySQL database set up
+
 
 **Backend Setup**
 
@@ -72,12 +75,19 @@ npm start
 **Usage**
 
 1.Open your browser and navigate to http://localhost:3000.
+
 2.Register a new account or log in if you already have one.
+
 3.Start creating your forms using the intuitive drag-and-drop interface.
+
 4.Save your forms to the database and access them anytime.
+
+
 
 **Technologies Used**
 
 Frontend: React, Redux, React Router, Axios
+
 Backend: Node.js, Express, JWT for authentication
+
 Database: MySQL
