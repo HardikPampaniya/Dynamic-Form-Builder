@@ -11,7 +11,7 @@ MySQL database set up
 
 **Backend Setup**
 
-1. Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/HardikPampaniya/Dynamic-Form-Builder.git
 cd dynamic-form-builder
@@ -31,14 +31,14 @@ DB_PASSWORD=your_db_password
 DB_NAME=your_db_name
 JWT_SECRET=your_jwt_secret
 
-4. Start the backend server:
+4.Start the backend server:
 
 npm start
 
 
 **Frontend Setup**
 
-1. Navigate to the frontend directory:
+1.Navigate to the frontend directory:
 
 cd ../frontend
 
