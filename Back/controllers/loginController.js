@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const db = require('../db').promise();
+const db = require('../db.js').promise();
 const bcrypt = require('bcrypt'); 
 const jwtKey = 'form';
 const saltRounds = 5;
