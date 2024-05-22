@@ -1,6 +1,6 @@
 const express = require("express")
 const cors = require('cors');
-const routes = require('../Back/routes/allRoutes.js');
+const routes = require('../routes/allRoutes.js');
 const { createServer } = require('http');
 const { Server} = require('socket.io');
 
